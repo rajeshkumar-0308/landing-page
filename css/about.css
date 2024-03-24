@@ -81,10 +81,10 @@
 
 
 @media all and (max-width:768px) {
+	.sectioner-header .h3{
+		font-size: 24px;	
+	}
 
-    .h3 {
-        font-size: 23px;
-    }
     .section-padding {
         padding: 40px 0px;
     }

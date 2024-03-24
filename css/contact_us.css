@@ -145,6 +145,9 @@
 }
 
 @media only screen and (max-width: 768px) {
+  .section-header h3{
+    font-size: 24px;
+  }
   .section1 {
     padding-top: 50px;
     padding-bottom: 50px;
