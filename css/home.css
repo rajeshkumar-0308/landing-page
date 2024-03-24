@@ -541,10 +541,9 @@
 	.sci{
 		position: relative;
 		justify-content: center;
-		top: 25px;
+		top: -60px;
 		display: flex;
 		flex-direction: row;
-		padding-top: 50px;
 	}
 	.sci li{
 		padding-top: 1.5rem;
