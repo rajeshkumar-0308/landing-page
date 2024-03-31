@@ -108,11 +108,12 @@ i:active {
     height: 100%;
     display: flex;
     flex-direction: row;
-  }
-  #quote-carousel .carousel-indicators .active {
-    width: 200%;
-    height: 200%;
   } */
+  #quote-carousel .carousel-indicators .active {
+    width: 140px;
+    height: 140px;
+  }
+  
 }
 @media (max-width: 992px) {
   #quote-carousel .carousel-control {
